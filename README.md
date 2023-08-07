@@ -5,7 +5,7 @@
 # Q1. < 25 >
 <ul>
   <li> make new module  smt_general_custom: contain the following </li>
-  <li> customer / vendor screen : make the mobile number required if there is no email provided . <b>use attributes  "6"</b></li> 
+  <li> customer / vendor screen : make the mobile number required if there is no email provided . <b>use attributes  "8"</b></li> 
   <li> don't allow to make to partner registered with same mobile number . <b>use constraint "7"</b></li>
   <li> system admin: can set option to block other users from confirming  purchase/sales orders by showing <strong>You are suspended by adminsterator "10" </strong></li>
 </ul>
